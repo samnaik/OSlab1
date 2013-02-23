@@ -1,0 +1,7 @@
+Hello World!
+
+Authors: Sameer Naik, Vani Gupta
+
+This is a project based on peer-to-peer networks as part of the first Lab assignment in Operating Systems 677.
+
+The aim of the project is to build on the Angry Birds game. The pigs in the game can now co-ordinate among themselves in a P2P network and try to avoid an incoming bird attack. A primary pig calculates the trajectory of the bird and co-ordinates this information to the other pigs using a hop-by-hop message transmission. A direct bird attack or falling pillars can cuse the pigs to be hurt. Number of pigs is configurable. 
